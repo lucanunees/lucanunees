@@ -1,8 +1,34 @@
 ### Olá, tudo bem? 👋
 
+Full Stack Developer, working with .net/c#.
+I have been working with software development since 2021, working on some projects in the banking and insurance sectors.
 
-- 🔭 Developer FullStack.
-- 🌱 I’m currently learning Back-And and Front-And.
+I am passionate about creating/participating in successful products, great teamwork, experienced in working with legacy systems and project support, improving customer experience and solving project problems efficiently.
+
+Technical Abilities:
+• .Net MicroServices
+• Angular;
+• HTML | CSS;
+• Git;
+• Azure Devops
+• Sql Server
+• MongoDB
+
+Tools:
+• Visual Studio Code;
+• Github;
+• Postman;
+• Visual Studio;
+
+Personal qualities:
+• Quick learner;
+• Organized;
+• Good at problem solving;
+• Customer experience;
+• Good at giving and receiving feedback;
+
+Links:
+• https://www.credly.com/users/lucas-rafael-rocha-nunes
 
 ##
    
